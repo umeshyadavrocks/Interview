@@ -1,0 +1,6 @@
+{
+    "todos" : [
+        { "id": 1, "name" : "react" ,"status": "incomplete"},
+        { "id": 2, "name" : "java" ,"status": "complete"}
+    ]
+}
